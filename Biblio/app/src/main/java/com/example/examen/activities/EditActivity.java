@@ -1,4 +1,4 @@
-package com.example.apirest2.activities;
+package com.example.examen.activities;
 
 import android.content.Intent;
 import android.graphics.Color;
@@ -15,11 +15,11 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.apirest2.MainActivity;
-import com.example.apirest2.R;
-import com.example.apirest2.interfaces.CRUDInterface;
-import com.example.apirest2.model.Editorial;
-import com.example.apirest2.utils.Conexion;
+import com.example.examen.MainActivity;
+import com.example.examen.R;
+import com.example.examen.interfaces.CRUDInterface;
+import com.example.examen.model.Editorial;
+import com.example.examen.utils.Conexion;
 
 import java.util.HashMap;
 import java.util.List;

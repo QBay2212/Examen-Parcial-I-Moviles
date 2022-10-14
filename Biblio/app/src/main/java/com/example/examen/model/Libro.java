@@ -1,4 +1,4 @@
-package com.example.apirest2.model;
+package com.example.examen.model;
 
 public class Libro {
     private int idlibro;

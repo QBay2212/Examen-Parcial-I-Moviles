@@ -1,4 +1,4 @@
-package com.example.apirest2.adapter;
+package com.example.examen.adapter;
 
 import android.widget.ArrayAdapter;
 

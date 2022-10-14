@@ -1,4 +1,4 @@
-package com.example.apirest2;
+package com.example.examen;
 
 import android.content.Intent;
 import android.os.Build;
@@ -12,11 +12,11 @@ import android.widget.ListView;
 import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.apirest2.activities.CreateActivity;
-import com.example.apirest2.adapter.BiblioAdapters;
-import com.example.apirest2.interfaces.CRUDInterface;
-import com.example.apirest2.model.Libro;
-import com.example.apirest2.utils.Conexion;
+import com.example.examen.activities.CreateActivity;
+import com.example.examen.adapter.BiblioAdapters;
+import com.example.examen.interfaces.CRUDInterface;
+import com.example.examen.model.Libro;
+import com.example.examen.utils.Conexion;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 import java.util.List;

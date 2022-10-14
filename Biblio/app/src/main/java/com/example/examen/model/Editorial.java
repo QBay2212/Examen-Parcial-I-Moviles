@@ -1,4 +1,4 @@
-package com.example.apirest2.model;
+package com.example.examen.model;
 
 public class Editorial {
     private int ideditorial;

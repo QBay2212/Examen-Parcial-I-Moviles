@@ -1,7 +1,7 @@
-package com.example.apirest2.interfaces;
+package com.example.examen.interfaces;
 
-import com.example.apirest2.model.Editorial;
-import com.example.apirest2.model.Libro;
+import com.example.examen.model.Editorial;
+import com.example.examen.model.Libro;
 
 import java.util.HashMap;
 import java.util.List;

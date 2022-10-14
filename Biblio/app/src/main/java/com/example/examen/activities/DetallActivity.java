@@ -1,4 +1,4 @@
-package com.example.apirest2.activities;
+package com.example.examen.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -11,11 +11,11 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.apirest2.MainActivity;
-import com.example.apirest2.R;
-import com.example.apirest2.interfaces.CRUDInterface;
-import com.example.apirest2.model.Libro;
-import com.example.apirest2.utils.Conexion;
+import com.example.examen.MainActivity;
+import com.example.examen.R;
+import com.example.examen.interfaces.CRUDInterface;
+import com.example.examen.model.Libro;
+import com.example.examen.utils.Conexion;
 
 import java.util.List;
 

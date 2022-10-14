@@ -1,4 +1,4 @@
-package com.example.apirest2;
+package com.example.examen;
 
 import org.junit.Test;
 
